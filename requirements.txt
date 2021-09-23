@@ -1,4 +1,4 @@
-ansible===1.9.3-edx
+ansible===4.2.0
 astroid==1.4.9
 awscli==1.10.28
 backports.functools-lru-cache==1.3
